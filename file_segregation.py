@@ -7,8 +7,8 @@ import os
 
 file_folders = {
     'Documents': ['.docs', '.doc','.pdf','.xls','.xlsx','.txt'],
-    'Image' : ['.jpg' , '.jpeg ', '.jfif' ,' .pjpeg ', '.pjp', '.png', '.svg','.webp'],
-    'Video' : ['.mp4', '.mov','.avi','.wmv','.mkv','.flv']
+    'Images' : ['.jpg' , '.jpeg ', '.jfif' ,' .pjpeg ', '.pjp', '.png', '.svg','.webp'],
+    'Videos' : ['.mp4', '.mov','.avi','.wmv','.mkv','.flv']
 }
 
 # getting path of folder from user
